@@ -1,2 +1,2 @@
 FROM dummy
-CMD python simple_proxy.py
+CMD python app.py
